@@ -1,0 +1,15 @@
+{
+  "name": "03",
+  "version": "1.0.0",
+  "description": "Esya es una aplicacion de línea de comando",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Miguel Ramírez",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^12.0.2"
+  },
+  "devDependencies": {}
+}
